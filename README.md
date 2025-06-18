@@ -10,7 +10,7 @@ A sleek, multi-tabbed restaurant website built with vanilla JavaScript, Webpack,
 - Webpack configured for asset bundling, live reload, and clean builds
 - Responsive layout with background images, media queries, and image optimization
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript (ES6+)
